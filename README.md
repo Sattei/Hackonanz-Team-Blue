@@ -1,11 +1,13 @@
 # Hackonanz-Team-Blue
 Bios-level hardware detection for linux systems
 To run our tool :
-extract the code where it is installed 
+extract the code at your desired folder 
 
-make the executable file by using the command : chmod +x select_and_run.sh
+In the installed folder :
 
-open select_and_run.sh in your terminal via : sudo ./select_and_run.sh
+1. make the executable file by using the command : chmod +x select_and_run.sh
+
+2. open select_and_run.sh in your terminal via : sudo ./select_and_run.sh
 
 and watch our tool do the rest
 
